@@ -1,0 +1,9 @@
+num1=3
+num2=4
+print('Num1 + Num2 = ',num1+num2)
+print('Num1 - Num2 = ',num1-num2)
+print('Num1 * Num2 = ',num1*num2)
+print('Num1 / Num2 = ',num1/num2)
+print('5^2 = ',5**2)
+print('22//7 = ',22//7) #floor division
+print('5%3 = ',5%3)
